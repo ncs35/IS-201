@@ -1,0 +1,65 @@
+body{
+    background-color: lightgray;
+}
+
+.common{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    color: black;
+}
+
+.header{
+    background-color: black;
+    color: white;
+    height: 100px;
+    line-height: 100px;
+}
+
+.mainbody{
+    background-color: lightgray;
+}
+
+.footer{
+    height: 25px;
+    line-height: 25px;
+    background-color: black;
+    color: white;
+}
+
+.footer a{
+    color: purple;
+    text-decoration: none;
+}
+
+.footer a:hover{
+    background-color: #ccc;
+}
+
+.tableauPlaceholder{
+    background-color: lightgray;
+    text-align: center;
+}
+ol{
+    list-style-position: inside;
+}
+
+ul{
+    list-style-position: inside;
+}
+
+nav{
+    background-color: darkgray;
+    padding: 10px;
+    overflow: hidden;
+}
+
+nav a{
+    float: left;
+    color: black;
+    text-decoration: none;
+    padding: 10px 13px;
+}
+
+nav a:hover{
+    background-color: #ccc;
+}
